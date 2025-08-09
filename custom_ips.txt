@@ -1,0 +1,11 @@
+# Custom IP/domain blocks for AdAway
+# One entry per line
+203.0.113.45
+198.51.100.27
+192.0.2.99
+45.67.89.123
+popads.net
+popcash.net
+popmyads.com
+onclickads.net
+jads.co
